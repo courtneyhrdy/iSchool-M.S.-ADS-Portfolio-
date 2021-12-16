@@ -18,6 +18,6 @@ Required Apache Spark on Hadoop’s HDFS. The environment we use is Databricks C
 
  PCA Visualization Dashboard ![image](https://user-images.githubusercontent.com/64566726/146412484-2d1ab5fb-da8b-4809-8247-0e878dbb5872.png)
 
-Link to Random Forest Feature Importance![image](https://user-images.githubusercontent.com/64566726/146412539-d928c385-014d-41c2-8762-55ca1e693357.png)
+Random Forest Feature Importance![image](https://user-images.githubusercontent.com/64566726/146412539-d928c385-014d-41c2-8762-55ca1e693357.png)
 
 3D PCA![image](https://user-images.githubusercontent.com/64566726/146412614-1475b0da-8e93-4199-8f37-0acb2950a000.png)
