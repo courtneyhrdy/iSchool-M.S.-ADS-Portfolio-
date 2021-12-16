@@ -11,17 +11,17 @@
 
 ### IST 718 Big Data Analytics 
 
--Modern techniques in data science including elastic net regularized regression, random forest, gradient boosting, and deep learning. It emphasizes a statistical learning point of view, and a careful examination of generalization error, model interpretability, feature engineering, and bias-variance tradeoff. 
--Required Apache Spark on Hadoop’s HDFS. The environment we use is Databricks Community Edition, which runs a highly customized version of the Jupyter Notebook.
+- Modern techniques in data science including elastic net regularized regression, random forest, gradient boosting, and deep learning. It emphasizes a statistical learning point of view, and a careful examination of generalization error, model interpretability, feature engineering, and bias-variance tradeoff. 
+- Required Apache Spark on Hadoop’s HDFS. The environment we use is Databricks Community Edition, which runs a highly customized version of the Jupyter Notebook.
 
 ### ACC 652 Accounting Analytics 
 
--Accounting analytics including Benford's Law, current and prior period data, anomaly detection, correlation and time series detection, risk assessment and risk scoring, and purchasing card transaction fraud.
--Required Tableau
+- Accounting analytics including Benford's Law, current and prior period data, anomaly detection, correlation and time series detection, risk assessment and risk scoring, and purchasing card transaction fraud.
+- Required Tableau
 
 ### IST 659 Database Administration and Concepts
 
 - The definition, development, and management of databases and their different business applications across industries. Fundamental data and database concepts included conceptual and logical entity-relationship modeling, Structured Query Language (SQL) programming, and web-based database applications
--The coursework applied schema and data modeling techniques to database management system products using Microsoft Azure.
+- The coursework applied schema and data modeling techniques to database management system products using Microsoft Azure.
 
 
