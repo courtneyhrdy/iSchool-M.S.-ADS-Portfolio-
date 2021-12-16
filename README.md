@@ -7,7 +7,7 @@
 ### IST 707 Applied Machine Learning
 
 - Machine learning, probabilistic reasoning and decision making in uncertain environments. 
-- To accomplish our analysis, we use Python packages Sci-Kit Learn, Pandas, NumPy, Matplotlib, Seaborn, and Plotly written in Jupyter Notebook. 
+- To accomplish our analysis, we used Python packages Sci-Kit Learn, Pandas, NumPy, Matplotlib, Seaborn, and Plotly written in Jupyter Notebook. 
 
 ### IST 718 Big Data Analytics 
 
