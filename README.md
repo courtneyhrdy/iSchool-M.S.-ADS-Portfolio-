@@ -1,7 +1,7 @@
 # iSchool-M.S.-ADS-Portfolio-
 
 # Courtney Hrdy 
-#### M.S. Applied Data Science
+# M.S. Applied Data Science
 
 ### Coursework:
 
