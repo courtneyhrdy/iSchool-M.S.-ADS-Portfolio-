@@ -17,11 +17,11 @@
 ### ACC 652 Accounting Analytics 
 
 - Accounting analytics including Benford's Law, current and prior period data, anomaly detection, correlation and time series detection, risk assessment and risk scoring, and purchasing card transaction fraud.
-- Required Tableau
+- Required Tableau.
 
 ### IST 659 Database Administration and Concepts
 
-- The definition, development, and management of databases and their different business applications across industries. Fundamental data and database concepts included conceptual and logical entity-relationship modeling, Structured Query Language (SQL) programming, and web-based database applications
+- The definition, development, and management of databases and their different business applications across industries. Fundamental data and database concepts included conceptual and logical entity-relationship modeling, Structured Query Language (SQL) programming, and web-based database applications.
 - The coursework applied schema and data modeling techniques to database management system products using Microsoft Azure.
 
 
