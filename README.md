@@ -4,12 +4,12 @@
 
 ### Coursework:
 
-# IST 707 Applied Machine Learning 
+### IST 707 Applied Machine Learning 
 
-# IST 718 Big Data Analytics 
+### IST 718 Big Data Analytics 
 
-# ACC 652 Accounting Analytics
+### ACC 652 Accounting Analytics
 
-# IST 652 Database Administration and Concepts
+### IST 652 Database Administration and Concepts
 
-# IST 974 Internship in Data Science
+### IST 974 Internship in Data Science
