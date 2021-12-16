@@ -4,7 +4,8 @@
 
 <img align="right" src="https://res.cloudinary.com/practicaldev/image/fetch/s--5L4QI4B_--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/ozuet5qpew6t9rup6o4p.gif" alt="10print made using p5-svelte" width="265" height="265" />
 
-<iframe src="https://editor.p5js.org/courtneyhrdy/full/Vmy2BttmQ"></iframe>
+<iframe style="width: 400px; height: 400px; overflow: hidden;"  scrolling="no" 
+        src="https://editor.p5js.org/courtneyhrdy/full/Vmy2BttmQ"></iframe>
 
 ### Coursework:
 
