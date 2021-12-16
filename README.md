@@ -2,6 +2,10 @@
 # Courtney Hrdy 
 ## M.S. Applied Data Science
 
+<img width="600" src=http://uwdata.github.io/perceptual-kernels/ve/figures/f.svg>
+<p>Figure 1. Visual embedding is a function that preserves structures in the data (domain)
+within the embedded perceptual space (range).</p>
+
 ### Coursework:
 
 ### IST 707 Applied Machine Learning
