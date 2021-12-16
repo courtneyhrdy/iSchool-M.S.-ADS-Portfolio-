@@ -11,7 +11,7 @@
 
 ### IST 718 Big Data Analytics 
 
-- Modern techniques in data science including elastic net regularized regression, random forest, gradient boosting, and deep learning. It emphasizes a statistical learning point of view, and a careful examination of generalization error, model interpretability, feature engineering, and bias-variance tradeoff. 
+- Modern techniques in data science including elastic net regularized regression, random forest, gradient boosting, and deep learning. Emphasis on a statistical learning point of view, and a careful examination of generalization error, model interpretability, feature engineering, and bias-variance tradeoff. 
 - Required Apache Spark on Hadoop’s HDFS. The environment we use is Databricks Community Edition, which runs a highly customized version of the Jupyter Notebook.
 
 ### ACC 652 Accounting Analytics 
