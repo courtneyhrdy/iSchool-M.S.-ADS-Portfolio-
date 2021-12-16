@@ -1,4 +1,4 @@
-# Exit Portfolio Milestone
+# Portfolio 
 # Courtney Hrdy 
 ## M.S. Applied Data Science
 
