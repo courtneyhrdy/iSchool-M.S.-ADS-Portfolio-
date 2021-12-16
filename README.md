@@ -3,6 +3,8 @@
 # Courtney Hrdy 
 ## M.S. Applied Data Science
 
+[![3D](https://chart-studio.plotly.com/~courtneyhrdy/1/#plot)]()
+
 ### Coursework:
 
 ### IST 707 Applied Machine Learning
