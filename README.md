@@ -2,7 +2,7 @@
 # Courtney Hrdy 
 ## M.S. Applied Data Science
 
-### Coursework:
+### Selected Coursework:
 
 ### IST 707 Applied Machine Learning
 
