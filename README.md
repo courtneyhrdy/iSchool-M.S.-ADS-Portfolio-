@@ -17,7 +17,7 @@
 ### ACC 652 Accounting Analytics 
 
 - Accounting analytics including Benford's Law, current and prior period data, anomaly detection, correlation and time series detection, risk assessment and risk scoring, and purchasing card transaction fraud.
-- Required Tableau.
+- Required Microsoft Excel and Tableau.
 
 ### IST 659 Database Administration and Concepts
 
